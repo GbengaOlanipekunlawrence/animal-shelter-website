@@ -1,0 +1,60 @@
+  
+/* Some more styles to beutify this example */
+nav a{
+    color:coral;
+    text-decoration: none;
+    padding: 20px 60px;
+    display: inline-block;
+    
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: brown;
+	color: white;
+	text-align: center;
+}
+.rabbit{
+    color: red;
+}
+.goats{
+    color: royalblue;
+}
+.dogs{
+    color: saddlebrown;
+}
+.column{
+    width: 31.1%;
+    float: left;
+}
+
+header {
+	position: relative;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: brown;
+	color: white;
+	text-align: center;
+}
+.textalign{
+    text-align: center;
+
+}
+.italic{
+    font-style: italic;
+    color: seagreen;
+}
+.sidebar{
+    width: 5%;
+    float:right;
+    background-color: brown;
+
+}
+.important{
+    color: red;
+
+}
